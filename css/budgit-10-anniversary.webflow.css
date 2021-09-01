@@ -1,3 +1,7 @@
+/* html {
+  scroll-behavior: smooth;
+} */
+
 .w-layout-grid {
   display: -ms-grid;
   display: grid;
@@ -3799,7 +3803,7 @@ a {
 .section--details {
   height: 90vh;
   padding: 70px 7%;
-  background-image: url('../images/Background-16.png');
+  background-image: url('../images/Background-18.svg');
   background-position: 60% 50%;
   background-size: auto 100%;
 }
