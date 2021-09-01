@@ -1141,7 +1141,7 @@ a {
 }
 
 .grid-img._14 {
-  background-image: url('../images/Oyo-1.jpeg');
+  background-image: url('../images/lecture-2.jpeg');
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -1153,19 +1153,19 @@ a {
 }
 
 .grid-img._16 {
-  background-image: url('../images/sos-33.jpeg');
+  background-image: url('../images/ctap-66.jpeg');
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .grid-img._18 {
-  background-image: url('../images/ctap-66.jpeg');
+  background-image: url('../images/lecture-3.jpeg');
   background-position: -130px 0px;
   background-size: cover;
 }
 
 .grid-img._20 {
-  background-image: url('../images/20210714_194009-1.jpeg');
+  background-image: url('../images/Hackthon-3.jpeg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1183,7 +1183,7 @@ a {
 }
 
 .grid-img._23 {
-  background-image: url('../images/day-21.jpeg');
+  background-image: url('../images/Hackthon-2.jpeg');
   background-position: 50% 30%;
   background-size: cover;
 }
@@ -3682,65 +3682,34 @@ a {
   width: 100%;
   height: 100%;
   background-color: transparent;
+}
+
+.card-gradient__1 {
   background-image: linear-gradient(30.66deg, rgba(245, 167, 0, 0.81), rgba(151, 13, 18, 0.81));
 }
 
+
+
 .card-gradient__2 {
-  position: absolute;
-  z-index: 5;
-  display: block;
-  width: 100%;
-  height: 100%;
-  background-color: transparent;
   background-image: linear-gradient(30.66deg, rgba(25, 41, 140, 0.81), rgba(212, 185, 140, 0.81));
 }
 
 .card-gradient__3 {
-  position: absolute;
-  z-index: 5;
-  display: block;
-  width: 100%;
-  height: 100%;
-  background-color: transparent;
   background-image: linear-gradient(30.66deg, rgba(89, 50, 131, 0.81), rgba(151, 13, 18, 0.81));
 }
+
 .card-gradient__4 {
-  position: absolute;
-  z-index: 5;
-  display: block;
-  width: 100%;
-  height: 100%;
-  background-color: transparent;
   background-image: linear-gradient(30.66deg, rgba(7, 51, 194, 0.81), rgba(26, 156, 166, 0.81));
 }
+
 .card-gradient__5 {
-  position: absolute;
-  z-index: 5;
-  display: block;
-  width: 100%;
-  height: 100%;
-  background-color: transparent;
   background-image: linear-gradient(30.66deg, rgba(30, 32, 68, 0.81), rgba(125, 63, 65, 0.81));
 }
 
 .card-gradient__6 {
-  position: absolute;
-  z-index: 5;
-  display: block;
-  width: 100%;
-  height: 100%;
-  background-color: transparent;
   background-image: linear-gradient(30.66deg, rgba(17, 68, 15, 0.81), rgba(141, 163, 164, 0.81));
 }
-.card-gradient {
-  position: absolute;
-  z-index: 5;
-  display: block;
-  width: 100%;
-  height: 100%;
-  background-color: transparent;
-  background-image: linear-gradient(30.66deg, rgba(245, 167, 0, 0.81), rgba(151, 13, 18, 0.81));
-}
+
 
 .card-gradient:hover {
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 51, 194, 0.81)), to(rgba(7, 51, 194, 0.81)));
